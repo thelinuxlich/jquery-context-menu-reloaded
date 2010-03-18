@@ -1,0 +1,3 @@
+Original plugin at http://abeautifulsite.net/2008/09/jquery-context-menu-plugin/
+
+This fork doesn't remove events, so you can play nice with jQuery live() stuff.
